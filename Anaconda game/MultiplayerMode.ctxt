@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=MultiplayerMode
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MultiplayerMode\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MultiplayerMode()
+comment10.params=
+comment10.target=void\ death()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ player1Body()
+comment4.params=
+comment4.target=void\ player2Body()
+comment5.params=
+comment5.target=void\ player1()
+comment6.params=
+comment6.target=void\ player2()
+comment7.params=
+comment7.target=void\ moveBody1()
+comment8.params=
+comment8.target=void\ moveBody2()
+comment9.params=
+comment9.target=void\ dotCollision()
+numComments=11
